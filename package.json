@@ -1,0 +1,20 @@
+{
+  "name": "sy66-wordcounter",
+  "version": "1.0.0",
+  "description": "Make A Words Counter Application With Typescript, Node.js And Inquirer And Chalk.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sahil Yousaf",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
